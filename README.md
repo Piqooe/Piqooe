@@ -8,7 +8,7 @@
 ---
 
 ### ⚙️ GitHub Stats
-![Fiqo's GitHub stats](https://github-readme-stats.vercel.app/api?username=fiqo123&show_icons=true&theme=tokyonight)
+![Fiqo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piqooe&show_icons=true&theme=tokyonight)
 
 ### 🔥 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fiqo123&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Piqooe&layout=compact&theme=tokyonight)
