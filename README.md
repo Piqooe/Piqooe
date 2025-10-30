@@ -7,7 +7,7 @@
 
 ---
 
-![FiveM](https://img.shields.io/badge/FiveM-Server-orange?style=for-the-badge)
+![FiveM](https://img.shields.io/badge/Server-FiveM-orange?style=for-the-badge)
 
 ### ⚙️ GitHub Stats
 ![Fiqo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Piqooe&show_icons=true&theme=tokyonight)
